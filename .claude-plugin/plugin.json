@@ -1,0 +1,12 @@
+{
+  "name": "package-guard",
+  "version": "1.0.0",
+  "description": "Package management - enforce exact versions, check outdated/vulnerable packages",
+  "author": {
+    "name": "Matt Hesketh",
+    "email": "matt@heskethwebdesign.co.uk"
+  },
+  "repository": "https://github.com/wrxck/package-guard",
+  "license": "MIT",
+  "keywords": ["npm", "package", "versions", "security", "audit", "outdated", "semver"]
+}
