@@ -1,5 +1,7 @@
 # package-guard
 
+[![CI](https://github.com/wrxck/package-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/wrxck/package-guard/actions/workflows/ci.yml)
+
 Package management enforcement for Claude Code sessions.
 
 ## What it checks
